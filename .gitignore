@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# Dataset complet et images générées
+Dataset/
+cache/
+*.dat
+*.npy
+*.npz
+
+# Modèles
+*.h5
+*.keras
